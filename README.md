@@ -26,7 +26,7 @@ through recommendations, language, and graphs.
 
 ### 📰 [Elasticsearch Korean News Search](https://github.com/gogolucj/elasticsearch-korean-news-search)
 
-> RSS 피드 기반 한국어 뉴스 검색 파이프라인 + 검색 품질 정량 평가
+> Elasticsearch 기반 한국어 뉴스 검색 파이프라인 + 검색 품질 정량 평가
 
 - 연합뉴스 RSS 피드 크롤링 후 Elasticsearch 인덱싱, Nori 분석기로 검색 품질 향상
 - Precision@K · MAP · MRR · nDCG@K 4가지 지표 구현
