@@ -1,6 +1,6 @@
 # Hi, I’m Jisoo 👋
 
-**Data Scientist & Engineer** focused on building systems that understand people —  
+**Data Scientist** focused on building systems that understand people —  
 through recommendations, language, and graphs.
 
 -----
