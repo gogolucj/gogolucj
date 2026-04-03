@@ -24,7 +24,7 @@ through recommendations, language, and graphs.
 
 -----
 
-### 📰 [elasticsearch-korean-news-search](https://github.com/gogolucj/elasticsearch-korean-news-search)
+### 📰 [Elasticsearch Korean News Search](https://github.com/gogolucj/elasticsearch-korean-news-search)
 
 > RSS 피드 기반 한국어 뉴스 검색 파이프라인 + 검색 품질 정량 평가
 
