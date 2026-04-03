@@ -24,6 +24,15 @@ through recommendations, language, and graphs.
 
 -----
 
+### 📰 한국어 뉴스 인덱싱 및 검색 품질 평가
+> RSS 피드 기반 한국어 뉴스 검색 파이프라인 + 검색 품질 정량 평가
+- 연합뉴스 RSS 피드 크롤링 후 Elasticsearch 인덱싱, Nori 분석기로 검색 품질 향상
+- Precision@K · MAP · MRR · nDCG@K 4가지 지표 구현
+- MRR **1.0000** · nDCG@5 평균 **0.9958** (쿼리 4개 · top-5 수동 레이블링)
+- `Elasticsearch` `Nori` `Python` `Docker` `Jupyter`
+
+-----
+
 ### 🇰🇷 [Korean Tokenizer Benchmark](https://github.com/gogolucj/korean-tokenizer-benchmark)
 
 > Subword vs. 형태소 분석기 정량 벤치마크
