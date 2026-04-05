@@ -24,7 +24,7 @@ through recommendations, language, and graphs.
 
 -----
 
-### 🍽️ [Agentic Korean Restaurant Finder](https://github.com/gogolucj/agentic-korean-restaurant-finder)
+### 🍽️ [Agentic Restaurant Finder](https://github.com/gogolucj/agentic-restaurant-finder)
 > LangGraph AgenticAI 기반 한국 음식점 추천 서비스
 - 사용자 질문을 coordinator → planner → search_agent → evaluator 파이프라인으로 처리하는 **ReAct 멀티 에이전트** 구현
 - Elasticsearch BM25 + Dense KNN + **RRF 하이브리드 검색**으로 음식점 후보 추출
