@@ -29,7 +29,7 @@ through recommendations, language, and graphs.
 - 사용자 질문을 coordinator → planner → search_agent → evaluator 파이프라인으로 처리하는 **ReAct 멀티 에이전트** 구현
 - Elasticsearch BM25 + Dense KNN + **RRF 하이브리드 검색**으로 음식점 후보 추출
 - 네이버 블로그 리뷰 실시간 크롤링, 예산 적합도 판정, Haversine 거리 계산 **4종 도구 자율 조합**
-- `LangGraph` `FastAPI` `Streamlit` `Elasticsearch` `baai/bge-m3`
+- `LangGraph` `Elasticsearch` `baai/bge-m3`  `FastAPI` `Streamlit`
 
 ----
 
