@@ -1,13 +1,13 @@
 # Hi, I’m Jisoo 👋
 
-**Data Scientist** focused on building systems that understand people —  
-through recommendations, language, and graphs.
+I'm a **Data Scientist** focused on building systems that understand people —  
+through recommendations, language, temporal patterns, and graphs.
 
 -----
 
 ## 🔍 Interests
 
-`Recommender Systems` `Information Retrieval` `NLP` `Large Language Models`
+`Recommender Systems` `Information Retrieval` `NLP` `Large Language Models` `Time-Series Forecasting`
 
 -----
 
@@ -41,6 +41,14 @@ through recommendations, language, and graphs.
 - Precision@K · MAP · MRR · nDCG@K 4가지 지표 구현
 - MRR **1.0000** · nDCG@5 평균 **0.9958** (쿼리 4개 · top-5 수동 레이블링)
 - `Elasticsearch` `Nori` `Python` `Docker` `Jupyter`
+
+-----
+### 🔧 [Qwen3-14B LoRA Fine-tuning](https://github.com/gogolucj/qwen3-lora-finetuning)
+> OpenMathReasoning + KoAlpaca 혼합 데이터로 Qwen3-14B LoRA 파인튜닝
+
+- Catastrophic Forgetting 방지를 위해 reasoning(25%) + 한국어 instruction(75%) 데이터 설계
+- 파인튜닝 후 한국어 비율 Thnking OFF 시 56.1% → 82.5%, Thinking ON 시 1.9% → 78.2% 향상
+- `Qwen3-14B` `LoRA` `KoAlpaca` `RunPod H100`
 
 -----
 
