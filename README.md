@@ -47,7 +47,7 @@ through recommendations, language, temporal patterns, and graphs.
 > OpenMathReasoning + KoAlpaca 혼합 데이터로 Qwen3-14B LoRA 파인튜닝
 
 - Catastrophic Forgetting 방지를 위해 reasoning(25%) + 한국어 instruction(75%) 데이터 설계
-- 파인튜닝 후 한국어 비율 Thnking OFF 시 59.3% → 82.9%, Thinking ON 시 30.2% → 83.6% 으로 향상
+- 파인튜닝 후 한국어 비율 Thinking OFF 시 59.3% → 82.9%, Thinking ON 시 30.2% → 83.6% 으로 향상
 - `Qwen3-14B` `LoRA` `KoAlpaca` `RunPod H100`
 
 -----
