@@ -65,7 +65,7 @@ through recommendations, language, graphs, and temporal patterns.
 
 ### 📢 [Toss NEXT ML Challenge — CTR 예측](https://github.com/gogolucj/toss-next-ml-challenge-2025)
 
-> 토스 실제 광고 로그 기반 클릭률(CTR) 예측 모델 개발 (DACON 공식 대회)
+> 토스 광고 로그 기반 클릭률(CTR) 예측 모델 개발 (DACON 공식 대회)
 > 
 - 다운샘플링 + pos_weight 이중 불균형 보정, 시간/요일 Sin/Cos 주기 인코딩 적용
 - 사용자 속성 · 광고 속성 · 행동 시퀀스를 결합한 CTR 모델 설계 및 비교 (MLP → LSTM → DCN)
